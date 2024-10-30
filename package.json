@@ -1,0 +1,15 @@
+{
+  "name": "aloha",
+  "version": "1.0.0",
+  "description": "a demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel",
+  "license": "ISC",
+  "dependencies": {
+    "cep-promise": "^4.4.1",
+    "express": "^4.21.1"
+  }
+}
